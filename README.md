@@ -53,6 +53,10 @@ Some of the best documented examples can be found in:
 - Merge Sort
 - Quick Sort
 - Shell Sort
+- Hash Table
+- Incertion Sort
+- Selection Sort
+- Bubble Sort
 
 A preview of the commented code is included in the screenshots below.
 
