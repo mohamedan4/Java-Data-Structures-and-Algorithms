@@ -53,6 +53,13 @@ Java-Data-Structures-and-Algorithms
 ├── Sorting
 └── Other Exercises
 ```
+## Repository Organization
+
+Each topic in this repository is divided into two folders:
+
+- **My Implementation** – My own implementation of the data structure or algorithm from scratch to practice and strengthen my understanding.
+
+- **University Implementation** – The implementation developed as part of my university coursework, assignments, or laboratory exercises.
 
 ## Future Improvements
 
