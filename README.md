@@ -69,24 +69,6 @@ Current documentation is available for:
 
 ---
 
-## Repository Structure
-
-```
-Java-Data-Structures-and-Algorithms
-│
-├── Trees
-├── Linked Lists
-├── Stack
-├── Queue
-├── Hash Table
-├── Searching Algorithms
-├── Sorting Algorithms
-├── Recursion
-└── Other Exercises
-```
-
----
-
 ## Learning Resources
 
 While learning Data Structures and Algorithms, I studied from several excellent educational resources that helped me understand the concepts before implementing them in Java.
