@@ -4,40 +4,70 @@
 
 This repository contains my implementations of fundamental **Data Structures and Algorithms** developed during my Computer Engineering studies at **Sivas Cumhuriyet University**.
 
-The main purpose of this project is to strengthen my understanding of data structures by implementing them from scratch in Java and practicing common algorithmic operations.
+The purpose of this repository is to strengthen my understanding of data structures and algorithms through personal practice, university coursework, and continuous learning in Java.
+
+---
 
 ## Contents
 
-The repository includes implementations of various data structures and algorithms, such as:
+This repository includes implementations and exercises covering topics such as:
 
 - Binary Search Tree (BST)
 - Binary Tree
+- Linked List
 - Stack
 - Queue
-- Linked List
-- Recursion
+- Hash Table
 - Searching Algorithms
 - Sorting Algorithms
-- Additional university assignments and exercises
+- Recursion
+- Additional university assignments and practice exercises
 
-> More implementations may be added as I continue learning.
+> More implementations will be added as I continue learning.
 
-## Technologies
+---
 
-- Java
-- Object-Oriented Programming (OOP)
-- IntelliJ IDEA / Java IDE
+## Repository Organization
 
-## Learning Objectives
+Most topics are divided into two folders:
 
-Throughout this project I practiced:
+### My Implementation
 
-- Implementing data structures from scratch
-- Understanding algorithm efficiency
-- Applying recursion
-- Working with trees and linked structures
-- Improving problem-solving skills
-- Writing clean and organized Java code
+Contains my own implementations created to practice concepts, improve problem-solving skills, and better understand how each data structure or algorithm works internally.
+
+### University Implementation
+
+Contains implementations, laboratory exercises, and assignments completed during my university coursework.
+
+---
+
+## Commented Code
+
+Several implementations include detailed comments explaining the algorithms step by step.
+
+Some of the best documented examples can be found in:
+
+- Trees
+- Linked Lists
+- Queue
+- Merge Sort
+- Quick Sort
+- Shell Sort
+
+A preview of the commented code is included in the screenshots below.
+
+---
+
+## Documentation
+
+Some topics also include additional documentation, diagrams, and visual explanations to make the concepts easier to understand.
+
+Current documentation is available for:
+
+- Queue
+- Hash Table
+
+---
 
 ## Repository Structure
 
@@ -48,29 +78,46 @@ Java-Data-Structures-and-Algorithms
 ├── Linked Lists
 ├── Stack
 ├── Queue
+├── Hash Table
+├── Searching Algorithms
+├── Sorting Algorithms
 ├── Recursion
-├── Searching
-├── Sorting
 └── Other Exercises
 ```
-## Repository Organization
 
-Each topic in this repository is divided into two folders:
+---
 
-- **My Implementation** – My own implementation of the data structure or algorithm from scratch to practice and strengthen my understanding.
+## Learning Resources
 
-- **University Implementation** – The implementation developed as part of my university coursework, assignments, or laboratory exercises.
+While learning Data Structures and Algorithms, I studied from several excellent educational resources that helped me understand the concepts before implementing them in Java.
+
+I highly recommend these channels to students learning Data Structures and Algorithms:
+
+- Bro Code *(English)*
+- Derek Banas *(English)*
+- Coding with John *(English)*
+- Adel Naseem *(Arabic)*
+- The New Baghdad *(Arabic)*
+
+The English channels are easy to follow for most learners, while Adel Naseem and The New Baghdad provide excellent explanations for Arabic speakers.
+
+These resources supported my learning journey, while the implementations in this repository were completed through my own practice and university coursework.
+
+---
 
 ## Future Improvements
 
 - Add more advanced data structures
-- Improve documentation
-- Include complexity analysis (Time & Space Complexity)
-- Add visual examples and diagrams
+- Include graph algorithms
+- Add complexity analysis (Time & Space Complexity)
+- Add execution examples
+- Improve project documentation
+
+---
 
 ## Author
 
-Mohamed Issa
+**Mohamed Issa**
 
 Computer Engineering Student
 
